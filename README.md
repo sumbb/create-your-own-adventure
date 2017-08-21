@@ -17,7 +17,7 @@ following text would turn "here" into a link to Google:
 
 ## Contribution Guidelines
 
-### Make Appropriately Sized Changes
+### Make Appropriately Sized Changes in this
 
 Try to keep your change small.  Part of the fun of a collaborative story is
 that no one person writes very much of it!  On the other hand, please **don't**
